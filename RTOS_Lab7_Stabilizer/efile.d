@@ -1,0 +1,11 @@
+.\efile.o: eFile.c
+.\efile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\efile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\efile.o: ../RTOS_Labs_common/OS.h
+.\efile.o: ../RTOS_Labs_common/../RTOS_Labs_common/TCB.h
+.\efile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\efile.o: ../RTOS_Labs_common/eFile.h
+.\efile.o: ff.h
+.\efile.o: integer.h
+.\efile.o: ffconf.h
+.\efile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
